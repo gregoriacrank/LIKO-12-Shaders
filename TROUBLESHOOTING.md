@@ -6,3 +6,5 @@ Documentation for LIKO-12-Shaders
 This is auto-generated documentation.
 
 ## Update 2025-10-15
+
+# PR Merge: 2025-10-15 - feature/merge-6954
